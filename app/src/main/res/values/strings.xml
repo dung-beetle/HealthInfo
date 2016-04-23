@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">General Health Info</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="edit">Edit</string>
+    <string name="exit">Exit</string>
+    <string name="header1">1. COOK FROM SCRATCH</string>
+    <string name="header2">2. EAT A BALANCED DIET</string>
+    <string name="header3">3. VARIETY IS KEY – EAT THE RAINBOW</string>
+    <string name="header4">4. UNDERSTAND WHAT YOU ARE EATING</string>
+    <string name="header5">5. EAT NUTRITIOUS CALORIES</string>
+    <string name="header6">6. DO NOT SKIP BREAKFAST</string>
+    <string name="header7">7. READ THE SMALL PRINT</string>
+    <string name="header8">8. DRINK MORE WATER</string>
+    <string name="header9">9. KEEP ACTIVE</string>
+    <string name="header10">10. SLEEP WELL</string>
+    <string name="body1">This is one of the most important life skills you can learn. It allows you to have complete control of what goes into your food.</string>
+    <string name="body2">Aim to eat a balanced diet that contains each of the food groups in the correct proportions.</string>
+    <string name="body3">Fill your diet with a wide range of fruits, vegetables, lean meats, fish, eggs, pulses, nuts, seeds, wholegrains and naturally low fat dairy foods. When it comes to fruit and veg, different colours provide your body with the different nutrients it needs to stay strong and healthy – it is not just greens that are good for you!</string>
+    <string name="body4">Make an effort to learn about the food you are eating – we all need to understand where food comes from and how it affects our bodies.</string>
+    <string name="body5">Make sure the majority of your energy intake comes from nutritious calories that also provide your body with nutrients like vitamins, minerals, protein, fibre and good fats. Avoid empty calories.</string>
+    <string name="body6">Breakfast kick-starts your metabolism and helps you to be alert and awake throughout the day. Make sure you always eat a nutritious breakfast. Make it wholesome and make it count.</string>
+    <string name="body7">It is important to read packaging correctly. Be aware of the recommended portion sizes, and the sugar, salt and saturated fat contents. Remember that not all E-numbers are bad, but too many is often a bad sign.</string>
+    <string name="body8">Water is an essential part of your diet. Drink plenty of water and avoid empty calories from things such as fizzy drinks, energy drinks or juices with added sugar. Eat your calories do not drink them.</string>
+    <string name="body9">Exercise is an extremely important factor in staying healthy so try to be as active as you can.</string>
+    <string name="body10">Make sure you get enough sleep – it is an essential part of being healthy and directly affects how well we are able to learn, grow and act in life. While we are asleep, our bodies have that all-important time to repair.</string>
+</resources>
